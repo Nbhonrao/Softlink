@@ -42,6 +42,8 @@ public class Sipl_Test {
 		System.out.println("Overview To Home Page !!!!");
 		
 		System.out.println("GIT PUSH function !!! ");
+		
+		System.out.println("git 2");
 	}
 	
 
